@@ -1,2 +1,2 @@
-#!/bin/bash
-cut -d: -f1 /etc/passwd
+#!/bin/bashi
+sort -k1 | cut -d:-f1 /etc/passwd
